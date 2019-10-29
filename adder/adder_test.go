@@ -1,4 +1,4 @@
-package adder_test
+package adder
 
 import (
 	. "github.com/onsi/ginkgo"
